@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-milvus
+langchain-google-genai
+langchain-community
+sentence-transformers
+pymilvus
+pypdf
+python-dotenv
